@@ -13,3 +13,10 @@
  - Suppose we have an object with some properties and methods.
  - To get access of the object from within a method, we use `this`.
  - Execute same code for multiple objects without taking object as argument.
+
+## Lexical and dynamic scope
+
+- Lexical means where it is written that determinses it's scope.
+- Dynamic means where it is invoked from.
+- `this` keyword follows dynamic scope. It doesn't matter where the function is written but how it is invoked that will determine it's value.
+
