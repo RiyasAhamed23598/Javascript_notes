@@ -10,5 +10,4 @@
 ## Why do we need this keyword
 
  - Suppose we have an object with some properties and methods.
- - The methods want to use properties and other methods of the object.
- - To access properties and methods within an object, we can use `this`.
+ - To get access of the object from within a method, we use `this`.
