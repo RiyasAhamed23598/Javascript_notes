@@ -5,6 +5,7 @@
 - `this` refers to whatever is on the left of the . (dot) when calling a method.
 - When we do obj.someFn(), `this` will refer to the obj.
 - If we use `use script` inside a function, `this` will be undefined.
+- Provinding some additional data to our function in the form of this.
 
 
 ## Why do we need this keyword
