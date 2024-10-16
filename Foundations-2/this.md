@@ -11,3 +11,4 @@
 
  - Suppose we have an object with some properties and methods.
  - To get access of the object from within a method, we use `this`.
+ - Execute same code for multiple objects without taking object as argument.
