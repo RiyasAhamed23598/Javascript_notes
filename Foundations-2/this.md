@@ -3,7 +3,7 @@
 - We know that inside GEC `this` refers to the global window object.
 - But what does `this` refers to inside of a function?
 - `this` refers to whatever is on the left of the . (dot) when calling a method.
-- When we do obj.someFn(), `this` will refer to the obj.
+- When we do obj.someFn(), `this` will refer to the obj. It's like who called me.
 - If we use `use script` inside a function, `this` will be undefined.
 - Provinding some additional data to our function in the form of this.
 
