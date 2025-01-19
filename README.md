@@ -14,7 +14,7 @@ Welcome to my comprehensive **JavaScript Notes** repository! This is your one-st
 ## 📖 Table of Contents  
 
 Here’s an overview of the topics covered in this repository:  
-1. **[Basics of JavaScript](#basics-of-javascript)**  
+1. **[How JS works](https://github.com/sakshamGupta09/Javascript/tree/main/01.How-js-works)**  
    - Variables, Data Types, Operators, and more.  
 2. **[Functions](#functions)**  
    - Function Expressions, Arrow Functions, Closures, and more.  
