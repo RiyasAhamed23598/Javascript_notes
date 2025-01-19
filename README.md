@@ -35,8 +35,14 @@ Here’s an overview of the topics covered in this repository:
    - **[Dynamic scoping](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/03.dynamic-scoping.md)**
    - **[Arrow functions](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/04.arrow-functions.md)**
    - **[Call bind and apply](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/05.call-bind-apply.md)**
-4. **[DOM Manipulation](#dom-manipulation)**  
-   - Selecting Elements, Event Listeners, and Dynamic Content Updates.  
+4. **[Async JS](https://github.com/sakshamGupta09/Javascript/tree/main/04.Async-JS)**  
+   - **[Async programming basics](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/01.async-js.md)**
+   - **[Callbacks](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/02.Callbacks.md)**
+   - **[Promises](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/03.Promises.md)**
+   - **[Concurrency](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/04.concurrency.md)**
+   - **[Async await](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/05.async-await.md)**
+   - **[finally keyword](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/06.finally.md)**
+   - **[Job queue](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/07.Job-queue.md)**
 5. **[Object-Oriented Programming](#object-oriented-programming)**  
    - Classes, Prototypes, and Inheritance.  
 6. **[ES6+ Features](#es6-features)**  
