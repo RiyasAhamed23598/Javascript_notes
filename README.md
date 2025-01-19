@@ -22,8 +22,13 @@ Here’s an overview of the topics covered in this repository:
    - **[Web assembly](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/05.web-assembly.md)**
    - **[Call stack and memory heap](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/06.call-stack-and-memory-heap.md)**
    - **[JS Runtime](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/07.js-runtime.md)**  
-2. **[Functions](#functions)**  
-   - Function Expressions, Arrow Functions, Closures, and more.  
+2. **[Execution context and scopes](https://github.com/sakshamGupta09/Javascript/tree/main/02.execution-context-and-scopes)**  
+   - **[Execution context](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/01.Execution-context.md)**
+   - **[Lexical and variable environment](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/02.Lexical-and-variable-environment.md)**
+   - **[Hoisting](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/03.Hoisting.md)**
+   - **[Variables without identifiers](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/04.Variables-without-identifier.md)**
+   - **[Function vs block scope](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/05.Function-vs-block-scope.md)**
+
 3. **[Asynchronous JavaScript](#asynchronous-javascript)**  
    - Promises, Async/Await, Callbacks, and Event Loop.  
 4. **[DOM Manipulation](#dom-manipulation)**  
