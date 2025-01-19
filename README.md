@@ -15,7 +15,13 @@ Welcome to my comprehensive **JavaScript Notes** repository! This is your one-st
 
 Here’s an overview of the topics covered in this repository:  
 1. **[How JS works](https://github.com/sakshamGupta09/Javascript/tree/main/01.How-js-works)**  
-   - Variables, Data Types, Operators, and more.  
+   - **[JS Engine](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/01.JS-Engine.md)**
+   - **[Compilers and interpretors](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/02.compilers-and-interpretors.md)**
+   - **[How JS Engine works](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/03.how-js-engine-works.md)**
+   - **[Ecmascript](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/04.ecmascript.md)**
+   - **[Web assembly](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/05.web-assembly.md)**
+   - **[Call stack and memory heap](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/06.call-stack-and-memory-heap.md)**
+   - **[JS Runtime](https://github.com/sakshamGupta09/Javascript/blob/main/01.How-js-works/07.js-runtime.md)**  
 2. **[Functions](#functions)**  
    - Function Expressions, Arrow Functions, Closures, and more.  
 3. **[Asynchronous JavaScript](#asynchronous-javascript)**  
