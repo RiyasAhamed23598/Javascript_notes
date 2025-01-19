@@ -29,8 +29,12 @@ Here’s an overview of the topics covered in this repository:
    - **[Variables without identifiers](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/04.Variables-without-identifier.md)**
    - **[Function vs block scope](https://github.com/sakshamGupta09/Javascript/blob/main/02.execution-context-and-scopes/05.Function-vs-block-scope.md)**
 
-3. **[Asynchronous JavaScript](#asynchronous-javascript)**  
-   - Promises, Async/Await, Callbacks, and Event Loop.  
+3. **[this keyword](https://github.com/sakshamGupta09/Javascript/tree/main/03.this%20keyword)**  
+   - **[Why we need this keyword](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/01.why.md)**
+   - **[How this keyword works](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/02.how.md)**
+   - **[Dynamic scoping](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/03.dynamic-scoping.md)**
+   - **[Arrow functions](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/04.arrow-functions.md)**
+   - **[Call bind and apply](https://github.com/sakshamGupta09/Javascript/blob/main/03.this%20keyword/05.call-bind-apply.md)**
 4. **[DOM Manipulation](#dom-manipulation)**  
    - Selecting Elements, Event Listeners, and Dynamic Content Updates.  
 5. **[Object-Oriented Programming](#object-oriented-programming)**  
