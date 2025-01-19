@@ -52,9 +52,11 @@ Here’s an overview of the topics covered in this repository:
    - **[Why error handling](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/01.errors.md)**
    - **[try catch](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/02.try-catch.md)**
    - **[Promise error handling](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/03.promises.md)**
-   - **[Async awaitaand errord](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/04.async-await.md)**
-7. **[Error Handling](#error-handling)**  
-   - Try-Catch, Throw, and Custom Errors.  
+   - **[Async await and errors](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/04.async-await.md)**
+7. **[Closures](https://github.com/sakshamGupta09/Javascript/tree/main/07.closures)**  
+   - **[Functions are first class citizens](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/01.functions.md)**
+   - **[What are closures](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/02.closures.md)**
+   - **[Advantages of closures](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/03.advantages.md)**
 8. **[JavaScript Design Patterns](#javascript-design-patterns)**  
    - Singleton, Factory, Observer, and more.  
 9. **[Performance Optimization](#performance-optimization)**  
