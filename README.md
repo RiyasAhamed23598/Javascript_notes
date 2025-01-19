@@ -77,15 +77,15 @@ Here’s an overview of the topics covered in this repository:
 
 Click below to explore the detailed notes:  
 
-- [Basics of JavaScript](link-to-basics-page)  
-- [Functions](link-to-functions-page)  
-- [Asynchronous JavaScript](link-to-asynchronous-js-page)  
-- [DOM Manipulation](link-to-dom-manipulation-page)  
-- [Object-Oriented Programming](link-to-oop-page)  
-- [ES6+ Features](link-to-es6-page)  
-- [Error Handling](link-to-error-handling-page)  
-- [JavaScript Design Patterns](link-to-design-patterns-page)  
-- [Performance Optimization](link-to-performance-page)  
+- [How JS works](https://github.com/sakshamGupta09/Javascript/tree/main/01.How-js-works) 
+- [Execution context and scopes](https://github.com/sakshamGupta09/Javascript/tree/main/02.execution-context-and-scopes) 
+- [this keyword](https://github.com/sakshamGupta09/Javascript/tree/main/03.this%20keyword)
+- [Async JS](https://github.com/sakshamGupta09/Javascript/tree/main/04.Async-JS) 
+- [Modules](https://github.com/sakshamGupta09/Javascript/tree/main/05.modules) 
+- [Error Handling](https://github.com/sakshamGupta09/Javascript/tree/main/06.Error-handling)
+- [Closures](https://github.com/sakshamGupta09/Javascript/tree/main/07.closures)
+- [Prototypes](https://github.com/sakshamGupta09/Javascript/tree/main/08.prototypes)
+- [Object oriented JavaScript](https://github.com/sakshamGupta09/Javascript/tree/main/09.object-oriented.md)
 
 ---
 
