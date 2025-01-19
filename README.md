@@ -43,8 +43,11 @@ Here’s an overview of the topics covered in this repository:
    - **[Async await](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/05.async-await.md)**
    - **[finally keyword](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/06.finally.md)**
    - **[Job queue](https://github.com/sakshamGupta09/Javascript/blob/main/04.Async-JS/07.Job-queue.md)**
-5. **[Object-Oriented Programming](#object-oriented-programming)**  
-   - Classes, Prototypes, and Inheritance.  
+5. **[Modules](https://github.com/sakshamGupta09/Javascript/tree/main/05.modules)**  
+   - **[Problems without modules](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/01.problems.md)**
+   - **[IIFE](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/02.iife.md)**
+   - **[Why modules](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/03.why-modules.md)**
+   - **[Modules in action](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/04.modules.md)**
 6. **[ES6+ Features](#es6-features)**  
    - Modules, Destructuring, Spread Operator, and more.  
 7. **[Error Handling](#error-handling)**  
