@@ -63,8 +63,13 @@ Here’s an overview of the topics covered in this repository:
    - **[Prototype chains](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/03.prototype-chain.md)**
    - **[Object creation patterns](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/04.Object-creation-patterns.md)**
    - **[Classes](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/05.classes.md)**
-9. **[Performance Optimization](#performance-optimization)**  
-   - Best Practices, Memory Management, and Profiling.  
+9. **[Object oriented JavaScript](https://github.com/sakshamGupta09/Javascript/tree/main/09.object-oriented.md)**  
+   - **[Introduction to programming paradigms](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/01.intro.md)**
+   - **[About Object oriented principles](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/02.oojs.md)**
+   - **[Encapsulation](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/03.encapsulation.md)**
+   - **[Abstraction](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/04.abstraction.md)**
+   - **[Inheritence](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/05.inheritence.md)**
+   - **[Polymorphism](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/06.polymorphism.md)**  
 
 ---
 
