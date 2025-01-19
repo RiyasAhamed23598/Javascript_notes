@@ -55,7 +55,7 @@ Click below to explore the detailed notes:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/javascript-notes.git
+   git clone https://github.com/sakshamGupta09/Javascript.git
    ```  
 2. Navigate to the repository folder and open the topic you want to explore.  
 3. Learn, code, and level up your JavaScript skills!  
@@ -73,5 +73,5 @@ Contributions are welcome! If you’d like to improve or add content, feel free 
 
 ## 💡 Feedback  
 
-If you find this repository helpful, please give it a ⭐️! Got suggestions or feedback? Feel free to [open an issue](link-to-issues).  
+If you find this repository helpful, please give it a ⭐️! Got suggestions or feedback? Feel free to [open an issue](https://github.com/sakshamGupta09/Javascript/issues).  
 
