@@ -48,8 +48,11 @@ Here’s an overview of the topics covered in this repository:
    - **[IIFE](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/02.iife.md)**
    - **[Why modules](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/03.why-modules.md)**
    - **[Modules in action](https://github.com/sakshamGupta09/Javascript/blob/main/05.modules/04.modules.md)**
-6. **[ES6+ Features](#es6-features)**  
-   - Modules, Destructuring, Spread Operator, and more.  
+6. **[Error Handling](https://github.com/sakshamGupta09/Javascript/tree/main/06.Error-handling)**  
+   - **[Why error handling](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/01.errors.md)**
+   - **[try catch](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/02.try-catch.md)**
+   - **[Promise error handling](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/03.promises.md)**
+   - **[Async awaitaand errord](https://github.com/sakshamGupta09/Javascript/blob/main/06.Error-handling/04.async-await.md)**
 7. **[Error Handling](#error-handling)**  
    - Try-Catch, Throw, and Custom Errors.  
 8. **[JavaScript Design Patterns](#javascript-design-patterns)**  
