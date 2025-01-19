@@ -57,8 +57,12 @@ Here’s an overview of the topics covered in this repository:
    - **[Functions are first class citizens](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/01.functions.md)**
    - **[What are closures](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/02.closures.md)**
    - **[Advantages of closures](https://github.com/sakshamGupta09/Javascript/blob/main/07.closures/03.advantages.md)**
-8. **[JavaScript Design Patterns](#javascript-design-patterns)**  
-   - Singleton, Factory, Observer, and more.  
+8. **[Prototypes](https://github.com/sakshamGupta09/Javascript/tree/main/08.prototypes)**  
+   - **[Why inheritence](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/01.inheritence.md)**
+   - **[Prototypes](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/02.prototypes.md)**
+   - **[Prototype chains](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/03.prototype-chain.md)**
+   - **[Object creation patterns](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/04.Object-creation-patterns.md)**
+   - **[Classes](https://github.com/sakshamGupta09/Javascript/blob/main/08.prototypes/05.classes.md)**
 9. **[Performance Optimization](#performance-optimization)**  
    - Best Practices, Memory Management, and Profiling.  
 
