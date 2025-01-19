@@ -75,10 +75,3 @@ Contributions are welcome! If you’d like to improve or add content, feel free 
 
 If you find this repository helpful, please give it a ⭐️! Got suggestions or feedback? Feel free to [open an issue](link-to-issues).  
 
----
-
-## 📜 License  
-
-This repository is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.  
-
----  
