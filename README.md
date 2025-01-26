@@ -69,7 +69,14 @@ Here’s an overview of the topics covered in this repository:
    - **[Encapsulation](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/03.encapsulation.md)**
    - **[Abstraction](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/04.abstraction.md)**
    - **[Inheritence](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/05.inheritence.md)**
-   - **[Polymorphism](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/06.polymorphism.md)**  
+   - **[Polymorphism](https://github.com/sakshamGupta09/Javascript/blob/main/09.object-oriented.md/06.polymorphism.md)** 
+10. **[Functional programming](https://github.com/sakshamGupta09/Javascript/tree/main/10.functional-programming.md)**  
+   - **[What is functional programming](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/01.what.md)**
+   - **[Pure functions](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/02.pure-functions.md)**
+   - **[Declarative vs imperative](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/03.declarative-vs-imperative.md)**
+   - **[Immutability](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/04.immutability.md)**
+   - **[Currying and partial application](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/05.currying.md)**
+   - **[Function composition](https://github.com/sakshamGupta09/Javascript/blob/main/10.functional-programming.md/06.composition.md)**  
 
 ---
 
@@ -86,6 +93,7 @@ Click below to explore the detailed notes:
 - [Closures](https://github.com/sakshamGupta09/Javascript/tree/main/07.closures)
 - [Prototypes](https://github.com/sakshamGupta09/Javascript/tree/main/08.prototypes)
 - [Object oriented JavaScript](https://github.com/sakshamGupta09/Javascript/tree/main/09.object-oriented.md)
+- [Functional programming](https://github.com/sakshamGupta09/Javascript/tree/main/10.functional-programming.md)
 
 ---
 
